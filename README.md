@@ -1,5 +1,5 @@
 # CIS17B-S25-33477-Assignment3
-# CIS17B-S25-33477-Assignment3
+
 # Bank Account Management System
 
 ## Overview
@@ -25,7 +25,7 @@ This C++ project is a simple **Bank Account Management System** created for CIS1
 Use any modern C++ compiler with C++17 support:
 
 ```bash
-g++ -std=c++17 main.cpp -o BankApp
+g++ -std=c++17 Assignment3.cpp -o BankApp
 ```
 
 ## How to Run
